@@ -1,0 +1,10 @@
+name: agro_forum
+title: Agro_Forum
+account: agro-forum
+server: shinyapps.io
+appId: 172328
+bundleId: 789761
+url: https://agro-forum.shinyapps.io/agro_forum/
+when: 1492197095.91127
+asMultiple: FALSE
+asStatic: FALSE
